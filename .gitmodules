@@ -1,6 +1,8 @@
 [submodule "Apache-Hadoop-Environment"]
 	path = Apache-Hadoop-Environment
-	url = https://github.com/bayudwiyansatria/Apache-Hadoop-Environment.git
+	url = git@github.com:bayudwiyansatria/Apache-Hadoop-Environment.git
+	master = master
 [submodule "Apache-Spark-Environment"]
 	path = Apache-Spark-Environment
-	url = https://github.com/bayudwiyansatria/Apache-Spark-Environment.git
+	url = git@github.com:bayudwiyansatria/Apache-Spark-Environment.git
+	master = master
